@@ -27,7 +27,7 @@
   "Installer": {
     "URL": "https://github.com/gmilleok0612/SmartCalFrames/releases/download/v1.0.0.0/SmartCalFrames-1.0.0.0.zip",
     "Type": "ARCHIVE",
-    c487eb0edef5c4deabb94cab3a43b5ca6c9f86de67a403d6627e6de2cc567fc4
+   "Checksum": "c487eb0edef5c4deabb94cab3a43b5ca6c9f86de67a403d6627e6de2cc567fc4",
     "ChecksumType": "SHA256"
   }
 }
